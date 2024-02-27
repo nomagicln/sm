@@ -1,8 +1,3 @@
-# sm - StateMachine
-
-[![Go Reference](https://pkg.go.dev/badge/github.com/nomagicln/sm.svg)](https://pkg.go.dev/github.com/nomagicln/sm)
-
-```go
 package main
 
 import (
@@ -33,10 +28,3 @@ func main() {
 		panic(err)
 	}
 }
-```
-
-Import:
-
-```bash
-go get github.com/nomagicln/sm
-```
