@@ -1,6 +1,7 @@
 # sm - StateMachine
 
 [![Go Reference](https://pkg.go.dev/badge/github.com/nomagicln/sm.svg)](https://pkg.go.dev/github.com/nomagicln/sm)
+[![codecov](https://codecov.io/gh/nomagicln/sm/graph/badge.svg?token=IYM19YGS7C)](https://codecov.io/gh/nomagicln/sm)
 
 ```go
 package main
